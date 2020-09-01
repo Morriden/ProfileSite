@@ -1,0 +1,108 @@
+/* .pageContainer {
+    background-image: url('https://lh3.googleusercontent.com/proxy/K9uFswcAVaOeMN45y0FwFitMG-9IyfSjycVo6_y3c1LF_mN_SGBe8Vn4c_J3uedwgdDXSoGJj1EIVc7Zy2Ygq_ajqAV-24eIXkjNpYSv6oIn9u7Qls5Aqv3i5nOO77piv_6S-htn8uxedUt34ig');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+} */
+
+.imageLogo {
+    height: 75px;
+    width: 75px;
+}
+
+.aboutMeContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutMeInfo {
+    margin-left: 30px;
+    width: 45%;
+}
+
+.techStackInfo {
+    width: 45%;
+}
+
+.techStackImages {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.listItemsFun {
+    margin-top: 8px;
+}
+
+.listItemDisplay {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.techStackLists {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.techStackTitle {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.techStackSingleListOne {
+    display: flex;
+    flex-direction: column;
+    height: 430px;
+    justify-content: space-between;
+}
+
+.techStackSingleListTwo {
+    display: flex;
+    flex-direction: column;
+    height: 430px;
+    justify-content: space-between;
+}
+
+.techStackSingleListThree {
+    display: flex;
+    flex-direction: column;
+    height: 430px;
+    justify-content: space-between;
+}
+
+.text {
+    font-size: 25px;
+}
+
+.aboutMeTitle {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.findMe {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.doingFollowing {
+    text-align: center;
+    font-size: 25px;
+}
+
+.techTitles {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.techText {
+    font-size: 25px;
+}

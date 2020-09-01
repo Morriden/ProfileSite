@@ -1,0 +1,86 @@
+.projectContainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.projectImage {
+    padding-left: 50px;
+    height: 330px;
+    width: 650px;
+}
+
+.description {
+    font-size: 30px;
+}
+
+.leftContainer {
+    height: 300px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.projectImageContainer {
+    width: 40%;
+}
+
+.technologyList {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    list-style-type: none;
+}
+
+.projectList {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    padding-top: 40px;
+    list-style-type: none;
+}
+
+.links {
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.siteLinks {
+    font-size: 20px;
+    font-weight: bold;
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(248, 203, 79);
+}
+
+.github {
+    background: rgb(8, 146, 170);
+    width: 120px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.github:hover {
+    cursor: pointer;
+    color: rgb(231, 154, 11);
+}
