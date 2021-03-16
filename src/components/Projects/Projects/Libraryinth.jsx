@@ -21,7 +21,7 @@ const Libraryinth = () => {
           The Libraryinth Spire is a simple multiplayer virtual text-based game on interactive fiction that includes a multi-user chatroom built with Socket.io. The user is able to interact with the game by typing commands that represent natural language through our language processing lexicon and React. Users are able to interact in a chat room and talk with other users who are also using the application in real-time. This project was completed by 4 individuals in a five-day sprint using React, JavaScript, Node.js, Socket.io, and Mongoose. 
             </p>
             <div className={styles.siteLinks}>
-              <a href="https://libraryinth-spire-staging.herokuapp.com/">
+              <a href="https://libraryinth-spire-new.herokuapp.com/">
                 <button className={styles.github}>
             Live Site
                 </button>
